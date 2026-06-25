@@ -222,3 +222,5 @@ __marimo__/
 *.tfstate.backup
 infra/terraform.tfvars
 infra/terraform.tfvars
+.DS_Store
+infra/cd
